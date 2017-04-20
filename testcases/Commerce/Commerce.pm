@@ -1,8 +1,8 @@
-package testcases::Commerce;
+package testcases::Commerce::Commerce;
 use strict;
 use XAO::Utils;
 
-use base qw(testcases::base);
+use base qw(testcases::Commerce::base);
 
 ###############################################################################
 sub test_all {
